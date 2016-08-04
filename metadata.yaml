@@ -1,0 +1,32 @@
+_repo: The-Game_1160
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: 'On the eve of their wedding, twenty-year-old Jack Fleming arranges a
+  secret ringside seat for his sweetheart to view her only rival: the "game." Through
+  Genevieve''s apprehensive eyes, we watch the prizefight that pits her fair young
+  lover, "the Pride of West Oakland," against the savage and brutish John Ponta and
+  that reveals as much about her own nature, and Joe''s, as it does about the force
+  that drives the two men in their violent, fateful encounter.'
+gutenberg_issued: '1998-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boxing stories'
+- !lcsh 'Boxers (Sports) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Game
+url: http://www.gutenberg.org/ebooks/1160
