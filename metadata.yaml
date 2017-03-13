@@ -1,5 +1,8 @@
 _repo: The-Game_1160
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -15,6 +18,8 @@ description: 'On the eve of their wedding, twenty-year-old Jack Fleming arranges
   lover, "the Pride of West Oakland," against the savage and brutish John Ponta and
   that reveals as much about her own nature, and Joe''s, as it does about the force
   that drives the two men in their violent, fateful encounter.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1160#The-Game
 gutenberg_issued: '1998-01-01'
 gutenberg_type: Text
 identifiers:
